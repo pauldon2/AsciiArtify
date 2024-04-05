@@ -46,6 +46,11 @@ k3s якщо треба спробувати працювати на дуже о
 
 
 Демонстрація:
+Minikube \
+![Image](./minikube.gif)
 
-Kind
+Kind \
 ![Image](./kind.gif)
+
+K3s \
+![Image](./k3s.gif)
